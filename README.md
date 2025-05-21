@@ -1,2 +1,2 @@
-# minicursi
+# minicurso
 curso de git - facef
